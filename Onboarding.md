@@ -106,3 +106,14 @@ Click on `SQL Server Services`
 
 Right click on `SQL Server (MSSQLSERVER)` and choose `Restart`
 
+
+### SQL Server Browser windows service:
+
+Navigate to "Services"
+
+Select "Properties" on "SQL Server Browser"
+
+Flip "Start up type" to "Automatic"
+
+Start the service
+
